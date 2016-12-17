@@ -1,0 +1,15 @@
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\NiceNNaughtyStrings.Tests.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\NiceNNaughtyStrings.Tests.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\NiceNNaughtyStrings.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\nunit.framework.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\NiceNNaughtyStrings.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\bin\Debug\nunit.framework.xml
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\obj\Debug\NiceNNaughtyStrings.Tests.csprojResolveAssemblyReference.cache
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\obj\Debug\NiceNNaughtyStrings.Tests.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings.Tests\obj\Debug\NiceNNaughtyStrings.Tests.pdb

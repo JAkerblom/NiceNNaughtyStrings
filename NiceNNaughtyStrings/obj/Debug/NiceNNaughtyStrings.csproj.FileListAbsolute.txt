@@ -1,0 +1,7 @@
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings\bin\Debug\NiceNNaughtyStrings.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings\bin\Debug\NiceNNaughtyStrings.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings\obj\Debug\NiceNNaughtyStrings.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings\obj\Debug\NiceNNaughtyStrings.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings\obj\Debug\NiceNNaughtyStrings.csprojResolveAssemblyReference.cache
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings\obj\Debug\NiceNNaughtyStrings.Properties.Resources.resources
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\NiceNNaughtyStrings\NiceNNaughtyStrings\obj\Debug\NiceNNaughtyStrings.csproj.GenerateResource.Cache
